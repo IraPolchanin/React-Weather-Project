@@ -1,5 +1,6 @@
 .WeatherForecast{
     text-align: center;
+    padding-top: 15px;
 }
 .WeatherForecastTemperatureMin{
     opacity: 0.6;
